@@ -1,0 +1,24 @@
+{
+  "name": "ens-watcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xsalaryman/ens-watcher.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xsalaryman/ens-watcher/issues"
+  },
+  "homepage": "https://github.com/0xsalaryman/ens-watcher#readme",
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.1.7",
+    "dotenv": "^10.0.0",
+    "web3": "^1.6.0"
+  }
+}
